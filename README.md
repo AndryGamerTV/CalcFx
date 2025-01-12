@@ -1,0 +1,3 @@
+- Calculate the value of the function f(x), where x is a real number.
+- +this code have test 
+- Best to use in Microsoft Visual Studio
